@@ -8,4 +8,4 @@
 angelc20/angelc20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-CURRENTLY ALL MY REPOSITORIES ARE PRIVATE FOR IP PURPOSES.
+***CURRENTLY ALL MY REPOSITORIES ARE PRIVATE DUE TO IP PURPOSES.***
